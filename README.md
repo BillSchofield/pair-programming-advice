@@ -25,6 +25,9 @@ Pair Programming Tips - The 7 Synergistic Behaviors
 10. Give and receive feedback when you're done
 
 ## [Pair Programming: Observations on anti-patterns](http://www.markhneedham.com/blog/2009/08/27/pair-programming-observations-on-anti-patterns/)
+* Moving around the code too quickly
+* Not listening to other solutions
+* Grabbing the keyboard away
  
 # The Roles
 ## Driver
