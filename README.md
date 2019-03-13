@@ -13,16 +13,16 @@ Pair Programming Tips - The 7 Synergistic Behaviors
 * Pair Trust – Becoming more confident in each other’s skills and communication to present the best ideas because they feel supported  
  
 ## [10 Ways to Improve Your Pairing Experience](https://www.thoughtworks.com/insights/blog/10-ways-improve-your-pairing-experience)
-1. - Do not centralize driving
-2. - Manage the focus together
-3. - Avoid working alone
-4. -  Alternate moments of concentration and relaxation
-5. - Celebrate your achievements!
-6. - Synchronize with your partner
-7. - Give context appropriately
-8. - Learn to deal with disagreements
-9. - Be ready to learn and to teach
-10. - Give and receive feedback when you're done
+1. Do not centralize driving
+2. Manage the focus together
+3. Avoid working alone
+4. Alternate moments of concentration and relaxation
+5. Celebrate your achievements!
+6. Synchronize with your partner
+7. Give context appropriately
+8. Learn to deal with disagreements
+9. Be ready to learn and to teach
+10. Give and receive feedback when you're done
 
 ## [Pair Programming: Observations on anti-patterns](http://www.markhneedham.com/blog/2009/08/27/pair-programming-observations-on-anti-patterns/)
  
