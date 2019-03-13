@@ -35,7 +35,7 @@ Pair Programming Tips - The 7 Synergistic Behaviors
 * Yagni. You ain't gonna need it, so don't worry about it.
 * Get the story done.
 * Outer-inner dialog. Talk about what you are thinking and doing. Make sure that your pair can keep up.
-*Avoid rabbit holes and interruptions.
+* Avoid rabbit holes and interruptions.
 
 ## Navigator
 * Isn't writing code. =(
