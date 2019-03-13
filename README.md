@@ -62,9 +62,9 @@ _Switch pairs frequently_: At the very least switch pairs when you complete each
 _Going Meta_: Discuss what is working for you and what isn't working so well. Have a 5 minute retro with your pair. Use this information to change how the two of your pair together. Communicate!
  
 # Anti-patterns
-_Superman_: He refuses to be impaired by a slow partner. He will hog the keyboard and save the world all on his own.
+_Superman_: They refuse to be impaired by a slow partner. They hog the keyboard and save the world all on their own.
 
-_Anti-Mentor_: As navigator, this senior developer leaves his junior partner without guidance.
+_Anti-Mentor_: As navigator, this senior developer leaves their junior partner without guidance.
 
 _Semi-Colon Pair -or- Backseat Driver_: Calls out typos, keyboard shortcuts, doesn't wait for you to complete your thoughts in code.
 
