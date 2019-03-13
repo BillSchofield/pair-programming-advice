@@ -3,14 +3,14 @@
 ## [Pair Programming Styles](http://articles.coreyhaines.com/posts/thoughts-on-pair-programming)
  
 ## [Pair Programming Cheat Sheet](http://www.solutionsiq.com/pair-programming-cheat-sheet/)
-Pair Programming Tips - The 7 Synergistic Behaviors
-Pair Pressure – Positive encouragement = not wanting to let partner down + satisfaction of working harder & smarter than you would alone
-Pair Negotiation – Combining two sets of skills for design & implementation to yield the best solution that fits
-Pair Courage – Advantage of not being alone in a challenging task, trying together what you might not alone
-Pair Review – Continuous review of design & implementation that happens in context and is more likely to be acted upon
-Pair Debugging – Going from problem identification to fix in a more enjoyable and often far shorter way than an individual might do it
-Pair Learning – Acquiring and/or improving skills while delivering value through working with another
-Pair Trust – Becoming more confident in each other’s skills and communication to present the best ideas because they feel supported
+Pair Programming Tips - The 7 Synergistic Behaviors . 
+Pair Pressure – Positive encouragement = not wanting to let partner down + satisfaction of working harder & smarter than you would alone . 
+Pair Negotiation – Combining two sets of skills for design & implementation to yield the best solution that fits . 
+Pair Courage – Advantage of not being alone in a challenging task, trying together what you might not alone . 
+Pair Review – Continuous review of design & implementation that happens in context and is more likely to be acted upon . 
+Pair Debugging – Going from problem identification to fix in a more enjoyable and often far shorter way than an individual might do it . 
+Pair Learning – Acquiring and/or improving skills while delivering value through working with another . 
+Pair Trust – Becoming more confident in each other’s skills and communication to present the best ideas because they feel supported . 
  
 ## [10 Ways to Improve Your Pairing Experience](https://www.thoughtworks.com/insights/blog/10-ways-improve-your-pairing-experience)
 ...the challenges faced when pairing...:
