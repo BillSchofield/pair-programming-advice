@@ -3,7 +3,7 @@
 ## [Pair Programming Styles](http://articles.coreyhaines.com/posts/thoughts-on-pair-programming)
  
 ## [Pair Programming Cheat Sheet](http://www.solutionsiq.com/pair-programming-cheat-sheet/)
-Pair Programming Tips - The 7 Synergistic Behaviors . 
+Pair Programming Tips - The 7 Synergistic Behaviors  
 Pair Pressure – Positive encouragement = not wanting to let partner down + satisfaction of working harder & smarter than you would alone . 
 Pair Negotiation – Combining two sets of skills for design & implementation to yield the best solution that fits . 
 Pair Courage – Advantage of not being alone in a challenging task, trying together what you might not alone . 
