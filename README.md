@@ -4,19 +4,25 @@
  
 ## [Pair Programming Cheat Sheet](http://www.solutionsiq.com/pair-programming-cheat-sheet/)
 Pair Programming Tips - The 7 Synergistic Behaviors  
-Pair Pressure – Positive encouragement = not wanting to let partner down + satisfaction of working harder & smarter than you would alone  
-Pair Negotiation – Combining two sets of skills for design & implementation to yield the best solution that fits  
-Pair Courage – Advantage of not being alone in a challenging task, trying together what you might not alone  
-Pair Review – Continuous review of design & implementation that happens in context and is more likely to be acted upon  
-Pair Debugging – Going from problem identification to fix in a more enjoyable and often far shorter way than an individual might do it  
-Pair Learning – Acquiring and/or improving skills while delivering value through working with another  
-Pair Trust – Becoming more confident in each other’s skills and communication to present the best ideas because they feel supported  
+* Pair Pressure – Positive encouragement = not wanting to let partner down + satisfaction of working harder & smarter than you would alone  
+* Pair Negotiation – Combining two sets of skills for design & implementation to yield the best solution that fits  
+* Pair Courage – Advantage of not being alone in a challenging task, trying together what you might not alone  
+* Pair Review – Continuous review of design & implementation that happens in context and is more likely to be acted upon  
+* Pair Debugging – Going from problem identification to fix in a more enjoyable and often far shorter way than an individual might do it  
+* Pair Learning – Acquiring and/or improving skills while delivering value through working with another  
+* Pair Trust – Becoming more confident in each other’s skills and communication to present the best ideas because they feel supported  
  
 ## [10 Ways to Improve Your Pairing Experience](https://www.thoughtworks.com/insights/blog/10-ways-improve-your-pairing-experience)
-...the challenges faced when pairing...:
-Infrastructure - the common hardware and software setup used by the team when pairing
-Fatigue - the energy spent by a teammate to keep the focus during the pairing activity
-Ego - the challenge of staying humble and avoiding arguments.
+#1 - Do not centralize driving
+#2 - Manage the focus together
+#3 - Avoid working alone
+#4 -  Alternate moments of concentration and relaxation
+#5 - Celebrate your achievements!
+#6 - Synchronize with your partner
+#7 - Give context appropriately
+#8 - Learn to deal with disagreements
+#9 - Be ready to learn and to teach
+#10 - Give and receive feedback when you're done
 
 ## [Pair Programming: Observations on anti-patterns](http://www.markhneedham.com/blog/2009/08/27/pair-programming-observations-on-anti-patterns/)
  
