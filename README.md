@@ -1,3 +1,8 @@
+# Why Pair?
+## Quality
+Relates to [Definition of Done](https://www.agilealliance.org/glossary/definition-of-done/)
+If each of us notices errors and opportunities abiut 90% of the time, a pair would miss them 1% of the time while a solo would miss 10% of the time.
+
 # Resources
  
 ## [Pair Programming Styles](http://articles.coreyhaines.com/posts/thoughts-on-pair-programming)
